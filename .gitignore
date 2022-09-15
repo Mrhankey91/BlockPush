@@ -1,5 +1,5 @@
-/Library
-/UserSettings
-/WindowsBuild
-/Logs
-/obj
+Library/
+UserSettings/
+WindowsBuild/
+Logs/
+obj/
