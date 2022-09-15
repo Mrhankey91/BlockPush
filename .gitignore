@@ -1,3 +1,5 @@
-Library
-UserSettings
-WindowsBuild
+/Library
+/UserSettings
+/WindowsBuild
+/Logs
+/obj
